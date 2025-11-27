@@ -20,7 +20,7 @@
                     <li class="menuItem">Premium</li>
                     <li class="menuItem">Profile</li>
                     <li class="menuItem">More</li>
-                    <button>Post</button>
+                    <Button>post</Button>
                 </ul>
             </div>
         </div>
